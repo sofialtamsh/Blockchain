@@ -78,6 +78,6 @@ While the project currently provides a basic framework for managing digital righ
 
 ## Conclusion
 
-The **Bill-of-Rights-Blockchain** project is an ambitious attempt to create a decentralized framework for managing and protecting digital rights. With the power of blockchain, we can provide transparency, accountability, and user control over digital assets and data, ensuring that individuals can freely manage their rights in the digital world.
+The **Bill-of-Rights-Blockchain** project is an ambitious attempt in order to create a decentralized framework for managing and protecting digital rights. With the power of blockchain, we can provide transparency, accountability, and user control over digital assets and data, ensuring that individuals can freely manage their rights in the digital world.
 
 Through continued development and collaboration, we aim to build a global standard for digital rights management, one that is fair, accessible, and universally adopted. We invite developers, innovators, and digital rights advocates to join us in making this vision a reality.
