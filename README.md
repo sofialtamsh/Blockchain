@@ -14,7 +14,7 @@ By leveraging blockchain's decentralized and transparent features, we aim to bui
    - The decentralized nature of blockchain ensures that there is no central authority controlling the rights, allowing users to have full autonomy over their digital assets and privacy.
 
 ### 2. **Immutable Record Keeping**
-   - All actions related to digital rights are logged onto a blockchain, creating an immutable and verifiable record.
+   - All actions are related to digital rights that are logged onto a blockchain, creating an immutable and verifiable record.
    - This ensures that any modification, violation, or transfer of rights is permanently recorded and cannot be tampered with, providing a layer of trust and accountability.
    - Stakeholders can access these records at any time, making it easy to track the history of any transaction or event tied to digital rights.
 
