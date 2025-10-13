@@ -1,5 +1,5 @@
 # Overview
- 
+  
 ## Project Description
  
 This project is a unique initiative that combines the principles of blockchain technology with the concept of a "Bill of Rights" for digital citizens in the modern age. In this repository, we aim to create a decentralized platform where rights, responsibilities, and ethical guidelines are encoded in a way that allows for transparent, secure, and immutable tracking of digital rights. Through this project, we envision a world where digital rights are not just theoretical, but actively managed and enforced through blockchain protocols.
