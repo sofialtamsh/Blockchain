@@ -7,7 +7,7 @@ This project is a unique initiative that combines the principles of blockchain t
 By leveraging blockchain's decentralized and transparent features, we aim to build a platform where individuals, organizations, and governments can agree upon and sign a digital Bill of Rights, ensuring that rights are always upheld, and any violations are automatically recorded and made visible for all stakeholders. The purpose of this project is to create a baseline for digital rights, privacy, and security that can be universally adopted and trusted.
  
 ## Key Features
-
+ 
 ### 1. **Decentralized Digital Rights Management**
    - The core of this project revolves around creating a blockchain-based framework that securely manages digital rights.
    - We leverage smart contracts to encode, manage, and enforce digital rights, providing transparency and accountability for all parties involved.
